@@ -18,3 +18,10 @@ It's also not that complicated and I think I have everything. I also started wor
 
 I almost have the first version but it will change a lot while I'm making the model.  
 
+## 10/29/2025 - worked on the schematic and pcb  
+
+I forgot to add the thermistor connectors to the schematic and pcb. So I did that along with changing some components so that there are less different components. This is what the pcb looks like now.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--32b6ae05d1b0be5e0810ff463ac1e498baca700b/image.png)
+  
+
