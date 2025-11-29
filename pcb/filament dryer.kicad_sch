@@ -3534,10 +3534,6 @@
 		(uuid "e125b73f-1657-4a80-9842-a1672665f2d8")
 	)
 	(no_connect
-		(at 166.37 59.69)
-		(uuid "e25dbf94-7c52-4684-80b8-8792d847d12d")
-	)
-	(no_connect
 		(at 120.65 64.77)
 		(uuid "e98655a6-a8af-4e5c-b632-e1117fe9688a")
 	)
@@ -4112,6 +4108,28 @@
 		(uuid "0b2b971f-3872-46ed-a6ca-de296c6c8c50")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 53.4223 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "thermistor"
+		(shape input)
+		(at 166.37 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1da6954c-4b7f-4048-913a-98f161325153")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.0918 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,2 +1,2 @@
 # filament-dryer
-A simple filament dryer for drying 1kg spools of filament.
+A simple filament dryer for drying 1 kg spools of filament. It's based around an Ender 3 heater and fan, combined with a PCB and another sensor. All controlled via Klipper. More information on CAD, firmware and the PCB is available in the folders.
