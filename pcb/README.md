@@ -1,1 +1,2 @@
-XL-5050RGBC-2812B
+# PCB
+The filament dryer uses a custom 2 layer pcb. I made it with almost only through hole components, so you don't need to order PCBA. But make sure when you order on both JLCPCB and LCSC that you chose global standard direct line. It is the cheapest option and bad things will happend if you don't. All the files needed for the pcb production and parts are in de production folder. The zip is the gerber files for JLCPCB and you can upload the bom.csv to LCSC. But add the extra sensor, pico and headers to your cart as well.
