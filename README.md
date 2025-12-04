@@ -40,8 +40,8 @@ In the BOM it uses a pico W because that is the only one LCSC has. You could als
 | PCB Components | AHT21 Sensor | 1 | 1 |  $ 1.5105  | $1.51 | https://www.lcsc.com/product-detail/C3012624.html |  $ 14.31  |
 | PCB Components | Pico W | 1 | 1 |  $ 10.7204  | $10.72 | https://www.lcsc.com/product-detail/C7203003.html |  $ 25.03  |
 | PCB Components | 1x20 Pin Header | 2 | 5 |  $ 0.0566  | $0.28 | https://www.lcsc.com/product-detail/C42431804.html |  $ 25.31  |
-| PCB Components | LCSC Shipping | 1 |  |  $ 10.88  | $10.88 |  |  $ 36.19  |
-| PCB | PCB (incl. shipping) | 1 | 1 |  $ 4.24  | $4.24 | https://jlcpcb.com/ |  $ 40.43  |
+| PCB Components | LCSC Shipping <img width="306" height="54" alt="lcsc shipping" src="https://github.com/user-attachments/assets/9127684c-c320-43bd-8767-17b049a73bdd" /> | 1 |  |  $ 10.88  | $10.88 |  |  $ 36.19  |
+| PCB | PCB (incl. shipping) <img width="736" height="74" alt="jlcpcb shipping" src="https://github.com/user-attachments/assets/85822365-52d6-469b-a5b8-a342f9e1f9c8" /> | 1 | 1 |  $ 4.24  | $4.24 | https://jlcpcb.com/ |  $ 40.43  |
 | Parts | Heater | 1 |  | (from Ender 3) |  |  |  $ 40.43  |
 | Parts | 4010 Blower Fan | 1 |  | (from Ender 3) |  |  |  $ 40.43  |
 | Case | Printed Parts | 350g |  |  (I already own)  |  |  |  $ 40.43  |
